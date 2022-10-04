@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "title": "Alimentação",
+      "defaultValue": "Díario"
+    },
+    {
+      "title": "Cultura",
+      "defaultValue": "Mensal"
+    },
+    {
+      "title": "Flexivel",
+      "defaultValue": "Quinzenal"
+    },
+    {
+      "title": "Home Office",
+      "defaultValue": "Mensal"
+    },
+    {
+      "title": "Mobilidade",
+      "defaultValue": "Mensal"
+    },
+    {
+      "title": "Saúde",
+      "defaultValue": "Mensal"
+    }
+  ]
+}
